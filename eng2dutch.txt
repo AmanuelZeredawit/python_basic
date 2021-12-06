@@ -1,0 +1,21 @@
+zero - nul
+
+one - één
+
+two - twee
+
+three - drie
+
+four - vier
+
+five - vijf
+
+six - zes
+
+seven - zeven
+
+eight - acht
+
+nine - negen
+
+ten - tien
